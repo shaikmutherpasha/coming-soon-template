@@ -1,1 +1,1 @@
-# coming-soon-template
+# Coming Soon Template
